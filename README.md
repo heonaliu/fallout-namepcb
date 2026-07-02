@@ -15,5 +15,10 @@
 ## 3D Render of PCB on KiCad
 ![3D Render of PCB on KiCad](Images/3dproduct.png)
 
+## BOM
+- Only PCB, no electrical components
+- Total Shipping: $4.00
+![JLCPCB](Images/jlcpcb.png)
+
 
 - Made by heona for Hack Club Fallout 2026
